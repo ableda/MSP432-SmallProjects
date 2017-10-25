@@ -9,8 +9,10 @@ The music source file allows to play any song you know the notes and tempo to th
 
 2) Board to Board Communication
 
-This small project can be used to set up board to board games using the educational BoosterPack MKII LCD screen. It serves as a good introduction to UART and LCD screen coding. 
+This small project can be used to set up board to board games using the educational BoosterPack MKII LCD screen. It serves as a good introduction to UART and LCD screen coding. A separate folder is included for dependencies.
 
 3) Home Intrusion System
 
-This project showcases how a useful small project can be done with as simple microcontroller and 200 lines of code. We used a GSM module and a PIR sensor to build a system that would detect motion and send an alert text to the user. The user can also send reset commands to the GSM module to rearm the system. The following picture is a diagram of the system:
+This project showcases how a useful project can be done with as simple microcontroller and 200 lines of code. We used a GSM module and a PIR sensor to build a system that would detect motion and send an alert text to the user. The user can also send reset commands to the GSM module to rearm the system. The following picture is a diagram of the system:
+
+![project_schematic](https://user-images.githubusercontent.com/16342828/32007043-71ca3c00-b976-11e7-82aa-1ccd55730f49.png)
